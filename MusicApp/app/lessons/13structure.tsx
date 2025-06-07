@@ -28,7 +28,7 @@ export default function Structure() {
             await polonaise.current.loadAsync(require('@/assets/sounds/polonaise.mp3'));
             await turkish_march.current.loadAsync(require('@/assets/sounds/turkish_march.mp3'));
             await fur_elise.current.loadAsync(require('@/assets/sounds/fur_elise.mp3'));
-            await variations.current.loadAsync(require('@/assets/sounds/variations.mp3'));
+            await variations.current.loadAsync(require('@/assets/sounds/variations.m4a'));
             await wonderful_world.current.loadAsync(require('@/assets/sounds/wonderful_world.mp3'));
             await piano_man.current.loadAsync(require('@/assets/sounds/piano_man.mp3'));
             await hundredyears.current.loadAsync(require('@/assets/sounds/100years.mp3'));
